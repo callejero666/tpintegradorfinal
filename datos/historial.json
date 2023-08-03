@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1,
+        "nombre": "Concierto de Rock",
+        "artista": "Rock Band 1",
+        "genero": "Rock",
+        "id_ubicacion": 101,
+        "hora_inicio": "2023-07-21T18:30:00",
+        "hora_fin": "2023-07-21T22:00:00",
+        "descripcion": "¡Disfruta de una noche de rock en vivo con la mejor banda de la ciudad!",
+        "imagen": "bart.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Festival de Jazz",
+        "artista": "Jazz Quartet",
+        "genero": "Jazz",
+        "id_ubicacion": 102,
+        "hora_inicio": "2023-07-22T19:00:00",
+        "hora_fin": "2023-07-22T23:00:00",
+        "descripcion": "Un festival de jazz lleno de melodías suaves y solos impresionantes.",
+        "imagen": "bart.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Fiesta Latina",
+        "artista": "Latin Band",
+        "genero": "Latino",
+        "id_ubicacion": 103,
+        "hora_inicio": "2023-07-23T20:00:00",
+        "hora_fin": "2023-07-23T23:30:00",
+        "descripcion": "¡Baila al ritmo de la música latina y disfruta de una noche llena de sabor!",
+        "imagen": "bart.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Concierto de Pop",
+        "artista": "Pop Star",
+        "genero": "Pop",
+        "id_ubicacion": 104,
+        "hora_inicio": "2023-07-24T19:30:00",
+        "hora_fin": "2023-07-24T22:30:00",
+        "descripcion": "El ídolo pop más famoso te hará vibrar con su increíble show.",
+        "imagen": "bart.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Noche de Blues",
+        "artista": "Blues Band",
+        "genero": "Blues",
+        "id_ubicacion": 105,
+        "hora_inicio": "2023-07-25T20:00:00",
+        "hora_fin": "2023-07-25T23:00:00",
+        "descripcion": "Sumérgete en las profundidades del blues con esta increíble banda.",
+        "imagen": "bart.png"
+    },
+    {
+        "id": 6,
+        "nombre": "Concierto de Metal",
+        "artista": "Metal Band",
+        "genero": "Metal",
+        "id_ubicacion": 106,
+        "hora_inicio": "2023-07-26T19:30:00",
+        "hora_fin": "2023-07-26T22:30:00",
+        "descripcion": "Headbanging y riffs potentes en este épico concierto de metal.",
+        "imagen": "bart.png"
+    },
+    {
+        "id": 7,
+        "nombre": "Festival de Folk",
+        "artista": "Folk Band",
+        "genero": "Folk",
+        "id_ubicacion": 107,
+        "hora_inicio": "2023-07-27T19:00:00",
+        "hora_fin": "2023-07-27T23:00:00",
+        "descripcion": "La música folk te transportará a lugares lejanos y llenará tu corazón de nostalgia.",
+        "imagen": "bart.png"
+    },
+    {
+        "id": 8,
+        "nombre": "Concierto de Clásica",
+        "artista": "Orquesta Sinfónica",
+        "genero": "Música Clásica",
+        "id_ubicacion": 108,
+        "hora_inicio": "2023-07-28T20:00:00",
+        "hora_fin": "2023-07-28T23:00:00",
+        "descripcion": "Déjate llevar por la majestuosidad de la música clásica interpretada por una orquesta sinfónica.",
+        "imagen": "bart.png"
+    },
+    {
+        "id": 9,
+        "nombre": "Fiesta Electrónica",
+        "artista": "DJ Party",
+        "genero": "Electrónica",
+        "id_ubicacion": 109,
+        "hora_inicio": "2023-07-29T22:00:00",
+        "hora_fin": "2023-07-30T04:00:00",
+        "descripcion": "¡La noche se iluminará con luces y ritmos electrónicos en esta fiesta única!",
+        "imagen": "bart.png"
+    },
+    {
+        "id": 10,
+        "nombre": "Concierto Acústico",
+        "artista": "Singer-Songwriter",
+        "genero": "Acústico",
+        "id_ubicacion": 110,
+        "hora_inicio": "2023-07-30T19:30:00",
+        "hora_fin": "2023-07-30T22:30:00",
+        "descripcion": "Una velada íntima con música acústica y letras emotivas para tocar el corazón.",
+        "imagen": "bart.png"
+    }
+]
+
